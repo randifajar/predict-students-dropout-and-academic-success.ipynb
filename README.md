@@ -1,4 +1,4 @@
 # Water Quality Classification
 
 ## Credits
-  - [Dataset](https://github.com/MainakRepositor/Datasets/blob/master/water_potability.csv)
+  - [Dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
